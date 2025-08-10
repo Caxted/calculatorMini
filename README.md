@@ -1,21 +1,30 @@
-<<<<<<< HEAD
-# calculatormini
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # calculatorMini
-Corizo miniproject calculator with clean ui
->>>>>>> 1c2c9b759d50d16bb56348882a74e5b4a9893df4
+
+A sleek and modern calculator app built with **Flutter** featuring:
+- **Glassmorphism design** for a premium look
+- **Light & Dark mode** toggle
+- Smooth animations and responsive layout
+- Modern operator and number button styling
+
+![App Screenshot](assets/calculator_screenshot_combined.png)
+
+
+---
+
+## 🚀 Features
+- **Glassmorphism UI** — Soft blur effects with semi-transparent buttons
+- **Theme Toggle** — Switch between light and dark modes instantly
+- **Responsive Layout** — Looks great on different screen sizes
+- **Basic Calculator Functions** — Add, subtract, multiply, divide, and percentage
+
+---
+
+## 🛠 Tech Stack
+- **Framework:** [Flutter](https://flutter.dev/)
+- **Language:** Dart
+- **Packages Used:**  
+  - [`math_expressions`](https://pub.dev/packages/math_expressions) – for parsing & evaluating math operations
+
+---
+
+## 📂 Project Structure
